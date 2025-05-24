@@ -12,11 +12,11 @@ This web application is built for managing patient records. Users can register n
 ## Demo
 
 The live demo can be accessed here:  
-**[Patient Registration App ](https://your-vercel-deployment-url)**
+**[Patient Registration App](https://your-vercel-deployment-url)**
 
 ---
 
-## Setup Instructions
+## Setup and Usage Instructions
 
 ### Prerequisites
 
