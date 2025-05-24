@@ -18,13 +18,6 @@ The live demo can be accessed here:
 
 ## Setup and Usage Instructions
 
-### Prerequisites
-
-Ensure that you have the following installed on your machine:
-
-- [Node.js](https://nodejs.org/) (version 14 or higher)
-- [npm](https://npmjs.com/)
-- [Git](https://git-scm.com/)
 
 ### Clone the Repository
 
@@ -33,6 +26,12 @@ Clone the repository using the following command:
 ```bash
 git clone https://github.com/kartikey210900/Patient_App.git
 cd Patient_App
+```
+### Install Dependencies
+```
 npm install
+```
+### Run on local
+```
 npm run dev
 
