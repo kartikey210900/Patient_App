@@ -33,3 +33,6 @@ Clone the repository using the following command:
 ```bash
 git clone https://github.com/kartikey210900/Patient_App.git
 cd Patient_App
+npm install
+npm run dev
+
